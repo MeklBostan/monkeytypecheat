@@ -1,6 +1,9 @@
 # monkeytypecheat
 first github post its rlly bad im just learning. read readme file
 
+
+to create a virtual environment with selenium in it, activate the virtual environment and pip install selenium.
+
 requirements:
     google chrome,
     created virtual environment,
